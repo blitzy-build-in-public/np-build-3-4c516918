@@ -1,2 +1,3 @@
-# np-build-3-4c516918
-Created by Blitzy
+# Welcome to Blitzy
+
+Prints "Welcome to Blitzy" to standard output. Requires Node.js; run `node index.js`.
